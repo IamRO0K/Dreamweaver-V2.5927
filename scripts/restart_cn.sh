@@ -18,4 +18,4 @@
 # along with zippy_config.  If not, see <http://www.gnu.org/licenses/>.
 
 # systemctl restart KlipperScreen
-systemctl restart crowsnest
+# systemctl restart crowsnest
